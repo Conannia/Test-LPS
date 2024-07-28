@@ -3,12 +3,8 @@
   "WorkspaceRootPath": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{41A027CE-98FC-44FE-92E2-EF5198EC499C}|AppLPS\\AppLPS.csproj|d:\\nurul file\\test lps\\test-lps\\applps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41A027CE-98FC-44FE-92E2-EF5198EC499C}|AppLPS\\AppLPS.csproj|solutionrelative:applps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41A027CE-98FC-44FE-92E2-EF5198EC499C}|AppLPS\\AppLPS.csproj|d:\\nurul file\\test lps\\test-lps\\applps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41A027CE-98FC-44FE-92E2-EF5198EC499C}|AppLPS\\AppLPS.csproj|solutionrelative:applps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Nurul FILE\\Test LPS\\Test-LPS\\AppLPS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:AppLPS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -39,25 +35,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\AppLPS\\appsettings.json",
-              "RelativeDocumentMoniker": "AppLPS\\appsettings.json",
-              "ToolTip": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\AppLPS\\appsettings.json",
-              "RelativeToolTip": "AppLPS\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-07-28T06:02:36.675Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\AppLPS\\Program.cs",
               "RelativeDocumentMoniker": "AppLPS\\Program.cs",
               "ToolTip": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\AppLPS\\Program.cs",
               "RelativeToolTip": "AppLPS\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-28T05:49:25.834Z",
               "EditorCaption": ""
