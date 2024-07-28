@@ -3,6 +3,22 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome</h1>
+    <h1 class="display-4">Welcome to Upload Menu </h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+
+
+
 </div>
+
+<form method="post" enctype="multipart/form-data">
+<input type="file" name="file"/>
+<button type="submit">Upload File</button>
+    
+</form>
+
+@if(ViewBag.Message != null)
+{
+    <div class="alert" style="margin-top: 26px">
+        @ViewBag.Message
+    </div>
+}

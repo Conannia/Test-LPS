@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|d:\\nurul file\\test lps\\test-lps\\auth_system_soal_no_8\\services\\fileuploadservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|solutionrelative:auth_system_soal_no_8\\services\\fileuploadservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|d:\\nurul file\\test lps\\test-lps\\auth_system_soal_no_8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|solutionrelative:auth_system_soal_no_8\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|d:\\nurul file\\test lps\\test-lps\\auth_system_soal_no_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|solutionrelative:auth_system_soal_no_8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|d:\\nurul file\\test lps\\test-lps\\auth_system_soal_no_8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|solutionrelative:auth_system_soal_no_8\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|d:\\nurul file\\test lps\\test-lps\\auth_system_soal_no_8\\intefaces\\ifileupload2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2C0E6A3-3814-475F-BC77-24D4375DD3F4}|Auth_System_Soal_no_8\\Auth_System_Soal_no_8.csproj|solutionrelative:auth_system_soal_no_8\\intefaces\\ifileupload2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,6 +47,71 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Auth_System_Soal_no_8\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Auth_System_Soal_no_8\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwCcAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:17:05.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Auth_System_Soal_no_8\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Auth_System_Soal_no_8\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-28T22:12:32.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Program.cs",
+              "RelativeDocumentMoniker": "Auth_System_Soal_no_8\\Program.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Program.cs",
+              "RelativeToolTip": "Auth_System_Soal_no_8\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T22:09:56.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileUploadServices.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Services\\FileUploadServices.cs",
+              "RelativeDocumentMoniker": "Auth_System_Soal_no_8\\Services\\FileUploadServices.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Services\\FileUploadServices.cs",
+              "RelativeToolTip": "Auth_System_Soal_no_8\\Services\\FileUploadServices.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:49:01.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IFileUpload2.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Intefaces\\IFileUpload2.cs",
+              "RelativeDocumentMoniker": "Auth_System_Soal_no_8\\Intefaces\\IFileUpload2.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\Auth_System_Soal_no_8\\Intefaces\\IFileUpload2.cs",
+              "RelativeToolTip": "Auth_System_Soal_no_8\\Intefaces\\IFileUpload2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T21:46:31.127Z",
+              "EditorCaption": ""
             }
           ]
         }

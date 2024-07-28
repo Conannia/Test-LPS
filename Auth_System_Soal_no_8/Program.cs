@@ -2,6 +2,8 @@ using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 using Auth_System_Soal_no_8.Data;
 using Auth_System_Soal_no_8.Areas.Identity.Data;
+using Auth_System_Soal_no_8.Intefaces;
+using Auth_System_Soal_no_8.Services;
 var builder = WebApplication.CreateBuilder(args);
 var connectionString = builder.Configuration.GetConnectionString("Auth_System_Soal_no_8DbContextConnection") ?? throw new InvalidOperationException("Connection string 'Auth_System_Soal_no_8DbContextConnection' not found.");
 
@@ -20,6 +22,9 @@ builder.Services.Configure<IdentityOptions>(options =>
     options.Password.RequireUppercase = true;
     options.Password.RequiredLength = 8;
 });
+
+builder.Services.AddTransient<FileUploadServices>();
+
 
 var app = builder.Build();
 
