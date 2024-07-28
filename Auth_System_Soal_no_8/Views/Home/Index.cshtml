@@ -3,22 +3,36 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome to Upload Menu </h1>
+    <h1 class="display-4">Welcome to Test Upload LPS </h1>
     <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
 
 
 
 </div>
 
-<form method="post" enctype="multipart/form-data">
+@* <form method="post" enctype="multipart/form-data">
 <input type="file" name="file"/>
 <button type="submit">Upload File</button>
     
 </form>
+ *@
 
-@if(ViewBag.Message != null)
+@if (User.Identity.IsAuthenticated)
 {
-    <div class="alert" style="margin-top: 26px">
-        @ViewBag.Message
-    </div>
+    <form method="post" enctype="multipart/form-data">
+        <input type="file" name="file" />
+        <button type="submit">Upload File</button>
+    </form>
+
+    @if (ViewBag.Message != null)
+    {
+        <div class="alert" style="margin-top: 26px">
+            @ViewBag.Message
+        </div>
+    }
 }
+else
+{
+    <p>Please <a href="/Identity/Account/Login">log in</a> to upload files.</p>
+}
+
