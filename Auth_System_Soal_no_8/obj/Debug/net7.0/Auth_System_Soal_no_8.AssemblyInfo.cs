@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Auth_System_Soal_no_8")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+49363f1072de941d87f854caea85ed2479a474f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b599afdf0df6a4b85565f898221ceb3da9f20224")]
 [assembly: System.Reflection.AssemblyProductAttribute("Auth_System_Soal_no_8")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Auth_System_Soal_no_8")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

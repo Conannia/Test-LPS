@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\AppLPS"
+    "\\AppLPS",
+    "\\Auth_System_Soal_no_8",
+    "\\Auth_System_Soal_no_8\\Auth_System_Soal_no_8"
   ],
-  "SelectedNode": "\\AppLPS\\AppLPS.csproj",
+  "SelectedNode": "\\Auth_System_Soal_no_8\\Auth_System_Soal_no_8.sln",
   "PreviewInSolutionExplorer": false
 }
