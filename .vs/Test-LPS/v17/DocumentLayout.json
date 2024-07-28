@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A027CE-98FC-44FE-92E2-EF5198EC499C}|AppLPS\\AppLPS.csproj|d:\\nurul file\\test lps\\test-lps\\applps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41A027CE-98FC-44FE-92E2-EF5198EC499C}|AppLPS\\AppLPS.csproj|solutionrelative:applps\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A027CE-98FC-44FE-92E2-EF5198EC499C}|AppLPS\\AppLPS.csproj|d:\\nurul file\\test lps\\test-lps\\applps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41A027CE-98FC-44FE-92E2-EF5198EC499C}|AppLPS\\AppLPS.csproj|solutionrelative:applps\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 839,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:138:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\AppLPS\\appsettings.json",
+              "RelativeDocumentMoniker": "AppLPS\\appsettings.json",
+              "ToolTip": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\AppLPS\\appsettings.json",
+              "RelativeToolTip": "AppLPS\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-28T06:02:36.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\AppLPS\\Program.cs",
+              "RelativeDocumentMoniker": "AppLPS\\Program.cs",
+              "ToolTip": "D:\\Nurul FILE\\Test LPS\\Test-LPS\\AppLPS\\Program.cs",
+              "RelativeToolTip": "AppLPS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-28T05:49:25.834Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
